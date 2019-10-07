@@ -1,14 +1,8 @@
-# Welcome to Rails
+# Welcome to Snoopy on Pails
 
-## What's Rails?
+## What's Snoopy on Pails?
 
-Rails is a web-application framework that includes everything needed to
-create database-backed web applications according to the
-[Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller)
-pattern.
-
-Understanding the MVC pattern is key to understanding Rails. MVC divides your
-application into three layers: Model, View, and Controller, each with a specific responsibility.
+As described in this [episodes of Rework podcast](https://smashnotes.com/p/rework/e/open-source-and-power-with-matt-mullenweg), Snoopy on Pails is a fork of the Ruby on Rails project which aims to be a two-day curiosity gag on Hacker News.
 
 ## Model layer
 
